@@ -1,5 +1,6 @@
 ironsrc.com, 329057, Direct
-
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
 adbility-media.com, 187, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 smartclip.net, 8153, RESELLER
