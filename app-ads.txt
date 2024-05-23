@@ -692,6 +692,16 @@ adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 webeyemob.com, 70098, RESELLER
 yandex.com, 97539269, RESELLER
+onetag.com, 5dcfcdb41f0856c, RESELLER	
+instreamatic.com, 118, RESELLER	
+zetaglobal.net, 626, RESELLER	
+video.unrulymedia.com, 6934634821880853826, RESELLER	
+smaato.com, 1100048572, RESELLER, 07bcf65f187117b4	
+lijit.com, 512006, RESELLER, fafdf38b16bf6b2b	
+video.unrulymedia.com, 831638248788941126, RESELLER	
+conversantmedia.com, 100681, RESELLER	
+mgid.com, 849339, RESELLER, d4c29acad76ce94f	
+e-planning.net, 4c6e71ca46f47d4a, RESELLER, c1ba615865ed87b2
 tpmn.io, 256, RESELLER
 opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
