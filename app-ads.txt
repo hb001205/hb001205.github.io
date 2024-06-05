@@ -1,3 +1,10 @@
+rubiconproject.com, 25906, RESELLER, 0bfd66d529a55807
+adtonos.com, PUB2356156682, RESELLER
+videoheroes.tv, 212430, RESELLER, 064bc410192443d8
+voisetech.com, 1023, RESELLER
+playwire.com, 1025119, RESELLER
+video.unrulymedia.com, 436487936, RESELLER
+appnexus.com, 14077, RESELLER
 eskimi.com, 2020000030, RESELLER
 fromthetop.io, 65529, RESELLER
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
