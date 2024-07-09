@@ -1,3 +1,4 @@
+digitalturbine.com, 228850, DIRECT
 fyber.com, 228850, DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adform.com,2688,RESELLER,9f5210a2f0999e32
