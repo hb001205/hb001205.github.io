@@ -898,6 +898,35 @@ yeahmobi.com,5135224,RESELLER
 yieldmo.com,2754490424016969782,RESELLER
 zoomd.com,88478941,RESELLER
 chartboost.com, 66272a2f822fa7e3e0e5aad3, DIRECT
+improvedigital.com, 2450, RESELLER
+improvedigital.com, 2451, RESELLER
+rhebus.works, 3852728940, RESELLER
+thunder-monetize.com, 4074712700, RESELLER
+playdigo.com, 1983, RESELLER
+smartadserver.com, 4880, RESELLER, 060d053dcf45cbf3
+inmobi.com, e2ce6fad847d4642b368082d662cc088, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 2099898025, RESELLER
+freewheel.tv, 1603410, RESELLER
+freewheel.tv, 1603413, RESELLER
+conversantmedia.com, 100664, RESELLER, 03113cd04947736d
+themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
+criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
+contextweb.com, 563238, RESELLER, 89ff185a4c4e857c
+opera.com, pub10472284589952, RESELLER, 55a0c5fd61378de3
+qortex.ai, 200807, RESELLER
+axonix.com, 59150, RESELLER, bc385f2b4a87b721
+zetaglobal.net, 681, RESELLER
+appnexus.com, 13709, RESELLER, f5ab79cb980f11d1
+webeyemob.com, 70628, RESELLER
+webeyemob.com, 80609, RESELLER
+sharethrough.com, 1fFvoTFu, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 26VgE1nN, RESELLER, d53b998a7bd4ecd2
+iqzone.com, IQ297, RESELLER
+video.unrulymedia.com, 5336134699710583737, RESELLER
+lijit.com, 456186, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, JATH6L, RESELLER, 35d5010d7789b49d
+sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, g4qXILSV, RESELLER, d53b998a7bd4ecd2
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
 indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
