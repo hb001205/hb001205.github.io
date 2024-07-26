@@ -1,3 +1,8 @@
+video.unrulymedia.com, 188404962, RESELLER
+dauup.com, 34103, RESELLER
+video.unrulymedia.com, 764922532, RESELLER
+smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
+themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
 digitalturbine.com, 228850, DIRECT
 fyber.com, 228850, DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
