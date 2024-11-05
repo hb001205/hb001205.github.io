@@ -948,6 +948,10 @@ zetaglobal.net, 856, RESELLER
 themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
 pubmatic.com, 163283, RESELLER, 5d62403b186f2ace
 consumable.com, 2001585, RESELLER, aefcd3d2f45b5070
+apexflowsdk.com, nLRbLm1tkm, RESELLER
+pubmatic.com, 161876, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161831, RESELLER, 5d62403b186f2ace
+zetaglobal.net, 815, RESELLER
 #fyber Resellers as of October 28, 2024
 fyber.com,228850,DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
