@@ -1,3 +1,5 @@
+#adsense
+google.com, pub-5925225661933758, DIRECT, f08c47fec0942fa0
 #start.io
 start.io, 144881071, DIRECT
 startapp.com, 144881071, DIRECT
