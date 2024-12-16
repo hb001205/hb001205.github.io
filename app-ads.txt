@@ -1,3 +1,16 @@
+#startio
+bidedge.io, 12427296, reseller
+conversantmedia.com, 100792, reseller, 03113cd04947736d
+bidedge.io, 12500436, reseller
+verve.com, 15290, reseller, 0c8f5958fc2d6270
+copper6.com, 764121, reseller
+appush.com, 1305002, reseller
+limpid.tv, 203711, reseller
+nativo.com, 5958, reseller, 59521ca7cc5e9fee
+pubmatic.com, 156500, reseller, 5d62403b186f2ace
+openx.com, 540709535, reseller, 6a698e2ec38604c6
+zetaglobal.net, 989, reseller
+risecodes.com, 66b9eb5035bff70001ca7bf8, reseller
 #unity
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
