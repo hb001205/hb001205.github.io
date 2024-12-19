@@ -12,6 +12,7 @@ openx.com, 540709535, reseller, 6a698e2ec38604c6
 zetaglobal.net, 989, reseller
 risecodes.com, 66b9eb5035bff70001ca7bf8, reseller
 #unity
+tradplusad.com, b3fca24bd11c1242, RESELLER
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
