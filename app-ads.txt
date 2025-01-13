@@ -1278,7 +1278,7 @@ zetaglobal.net,998,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 #chartboost
-chartboost.com, 66cc01237f0c260d3b32f105, DIRECT
+chartboost.com, 66272a2f822fa7e3e0e5aad3, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
 mobfox.com, 82593, RESELLER, 5529a3d1f59865be
