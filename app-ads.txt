@@ -1280,6 +1280,34 @@ zoomd.com,88478941,RESELLER
 #chartboost
 chartboost.com, 66272a2f822fa7e3e0e5aad3, DIRECT
 chartboost.com, 66cc01237f0c260d3b32f105, DIRECT
+sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+video.unrulymedia.com, 557688749, RESELLER
+carbonatix.com, 14840966, RESELLER
+thunder-monetize.com, 6343837988, RESELLER
+thunder-monetize.com, 4588767099, RESELLER
+thunder-monetize.com, 4818959194, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+thunder-monetize.com, 1252316774, RESELLER
+thunder-monetize.com, 9333631985, RESELLER
+thunder-monetize.com, 7612013266, RESELLER
+thunder-monetize.com, 2080567565, RESELLER
+thunder-monetize.com, 4766022545, RESELLER
+admanmedia.com, 2248, RESELLER
+improvedigital.com, 2505, RESELLER
+improvedigital.com, 2508, RESELLER
+improvedigital.com, 2509, RESELLER
+pubnative.net, 1010067, RESELLER, d641df8625486a7b
+pubnative.net, 1010068, RESELLER, d641df8625486a7b
+pubnative.net, 1010069, RESELLER, d641df8625486a7b
+pubnative.net, 1010070, RESELLER, d641df8625486a7b
+pubnative.net, 1010071, RESELLER, d641df8625486a7b
+pubnative.net, 1010072, RESELLER, d641df8625486a7b
+pubnative.net, 1010073, RESELLER, d641df8625486a7b
+adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
+appnexus.com, 10549, RESELLER
+themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
 ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 adiiix.com, db716a4c, RESELLER
