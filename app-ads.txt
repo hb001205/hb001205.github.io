@@ -1280,6 +1280,12 @@ zoomd.com,88478941,RESELLER
 #chartboost
 chartboost.com, 66272a2f822fa7e3e0e5aad3, DIRECT
 chartboost.com, 66cc01237f0c260d3b32f105, DIRECT
+start.io, 116712987, RESELLER
+freewheel.tv, 1600180, RESELLER
+freewheel.tv, 1600214, RESELLER
+sabio.us, 100092, RESELLER, 96ed93aaa9795702
+bidmachine.io, 198, RESELLER
+pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 axonix.com, 59107, RESELLER, bc385f2b4a87b721
 opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
