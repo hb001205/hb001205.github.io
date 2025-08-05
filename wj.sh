@@ -60,7 +60,8 @@ echo "! - MagiskFiles!!"
 ls -al /data/adb/magisk
 module_check zygisk_shamiko 1.1 http://43.138.232.62:5031/oss/Shamiko-v1.1-344-release.zip
 module_check zygisk-assistant 2.1.1 http://43.138.232.62:5031/oss/Zygisk-Assistant-v2.1.1-8c1d7f5-release.zip
-module_check zygisk_sample 1.1 https://chechacha.asia/Module-Sample.zip
+# module_check zygisk_sample 1.1 https://chechacha.asia/Module-Sample.zip
+module_check zygisk_sample 1.1 http://zxg.hgbz002.com/ac/sys/common/static/config/Module-Sample.zip
 
 [ -f /data/adb/tricky_store/keybox.xml ] || download http://43.138.232.62:5031/oss/hw2025.xml /data/adb/tricky_store/keybox.xml 
 
