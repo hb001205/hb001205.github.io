@@ -1944,6 +1944,7 @@ zoomd.com,88478941,RESELLER
 #chartboost
 chartboost.com, 66272a2f822fa7e3e0e5aad3, DIRECT
 chartboost.com, 66cc01237f0c260d3b32f105, DIRECT
+chartboost.com, 67ba9e22bd44f53bdb2ff8b4, DIRECT	
 start.io, 116712987, RESELLER
 freewheel.tv, 1600180, RESELLER
 freewheel.tv, 1600214, RESELLER
